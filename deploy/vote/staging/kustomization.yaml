@@ -14,4 +14,4 @@ images:
 
 replicas:
   - name: vote
-  count: 4
+    count: 4
